@@ -1,2 +1,3 @@
-# crud-api-nestjs
-Repositório com um CRUD simples de um serviço feito em NEST JS, inicialmente criado como demonstrativo para aula de serviços na Amazon
+##Descrição
+
+#É um projeto genérico com exemplo de CRUD em NestJS.
